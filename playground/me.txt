@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ashish Makwana
-Skills: HTML, CSS, JS, REACT.JS, BOOTSTRAP, NODE.JS
-Email: ashishmak2003@gmail.com
-{{/user}}
